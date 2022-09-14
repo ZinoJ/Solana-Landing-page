@@ -1,0 +1,8 @@
+.app {
+  font-family: 'Rubik', sans-serif;
+  /* background-color: #161B19; */
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 6rem;
+}

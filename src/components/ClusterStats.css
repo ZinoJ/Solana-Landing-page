@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400&display=swap');
+
+.clusterStats {
+   margin: 0 11%;
+}
+.clusterStats__container {
+   background-color: #1e2423;
+   border-radius: 0.4rem;
+   border: 1px solid #111;
+   padding-block: 1rem;
+   padding-left: 0;
+   padding-bottom: 0;
+   color: whitesmoke;
+}
+
+.clusterStats__container h3 {
+   font-size: 1rem;
+   font-weight: 400;
+   padding-bottom: 1rem ;
+}
+
+.clusterStats__options {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   font-size: 0.9rem;
+   padding: 1rem 0;
+   border-bottom: 0.05rem solid whitesmoke;
+}
+
+.clusterStats__options:last-child {
+   border-bottom: none;
+}
